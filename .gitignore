@@ -1,0 +1,13 @@
+/reports
+/.metadata/
+target
+/.classpath
+/.project
+.settings
+.idea
+*.iml
+test-output
+*.log
+*.zip
+/bin
+.DS_Store
